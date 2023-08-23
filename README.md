@@ -1,0 +1,1 @@
+# Fungsi_sqrt_dan_pow
